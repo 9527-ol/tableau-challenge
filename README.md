@@ -6,8 +6,10 @@ The purpose of this project is to create stories for the New York Citi Bike Prog
 
 The data is collected, made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
-Here are some findings:
+Here are the visualizations:
 
-![image](image/station.png)
+![image](image/1.png)
 
-![image](image/trip.png)
+![image](image/2.png)
+
+![image](image/3.png)
